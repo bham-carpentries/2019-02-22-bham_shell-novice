@@ -2,6 +2,7 @@
 layout: lesson
 root: .
 ---
+This is the version taught at the [Software carpentries]() workshop beginning on Monday 18 February 2019.
 
 The Unix shell has been around longer than most of its users have been alive.
 It has survived so long because it's a power tool
